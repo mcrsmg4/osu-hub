@@ -44,7 +44,7 @@
 
 ### For Regular Users:
 
-1. **Download the osu!hub installer** from the [Releases](https://github.com/YourRepo/osuHub/releases) section.
+1. **Download the osu!hub installer** from the [Releases](https://github.com/mcrsmg4/osu-hub/releases) section.
 2. **Run the installer** and follow the on-screen instructions.
 3. **Select your osu! folder** when prompted (the installer will guide you through this).
 4. Once installed, open **osu!hub** and start using the tools!
