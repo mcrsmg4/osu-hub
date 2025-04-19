@@ -51,12 +51,12 @@
 
 > **Installers coming soon!** The installer feature is currently under development and will be available in future releases.
 
-### For Developers (Visual Studio 2022 Instructions):
+### For Developers (Code Editor Instructions):
 
 If you want to contribute or help develop osu!hub, follow these steps:
 
 1. **Clone or download** the repo from GitHub.
-2. **Open the solution** in **Visual Studio 2022** (or your preferred C# IDE).
+2. **Open the repo** in any code editor that supports opening repositories locally (Visual Studio, VS Code, or any other editor).
 3. **Build the solution** to generate `osuHub.exe`.
 4. **Run the app** locally to test and develop new features!
 
@@ -110,7 +110,7 @@ This project is licensed under the **MIT License**. See the LICENSE file for mor
 
 ## 👨‍💻 Developer Info:
 
-- **Developer:** thewmgoverment
+- **Developers:** TheWMGoverment and the osu! community
 
 ---
 
